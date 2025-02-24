@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/dmainagithub/MADIVA.git
+git push -u origin master
+
+
+
+Updating existing scripts:
+  git status
+  git add updated_script.py
+  git commit -m "Describe the changes made"
+
