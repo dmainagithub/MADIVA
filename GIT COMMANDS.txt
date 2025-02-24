@@ -10,4 +10,5 @@ Updating existing scripts:
   git status
   git add updated_script.py
   git commit -m "Describe the changes made"
+  git push
 
