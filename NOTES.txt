@@ -1,0 +1,5 @@
+VA Files::
+D:\APHRC\GoogleDrive_ii\data_science\madiva\DMAC\databases\VA
+
+SQL Scripts::
+D:\APHRC\GoogleDrive_ii\data_science\madiva\DMAC\databases\tables\MADIVA\MADIVA
